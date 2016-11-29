@@ -2,7 +2,7 @@
 
 xlog=/root/backup_lv.log
 
-duration_string()
+duration_string() 
 {
         # This function takes a number of seconds as an argument
         # and converts it to human friendly format like
