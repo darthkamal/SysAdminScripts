@@ -1,2 +1,4 @@
 # SysAdminScripts
-Collection of shell scripts for various system administration tasks.
+
+================================
+SysAdminScripts is a repository containing various linux and windows shell scripts and batch files I use to automate various System Administration tasks.
